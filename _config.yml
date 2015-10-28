@@ -1,0 +1,5 @@
+name: example.com
+description: Blog description
+url: http://example.com
+permalink: /:year/:title.html
+paginate: 2
