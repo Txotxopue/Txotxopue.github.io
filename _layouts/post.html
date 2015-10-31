@@ -55,14 +55,30 @@ layout: default
 
   {% if site.related_posts %}
     <div class="related-posts">
-      <h4>Related Posts</h4>
+      <h4>Entradas relacionadas</h4>
       <ul>
         {% for post in site.related_posts limit:3 %}
           <li>
             <h5>
               <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
                 {{ post.title }}
-                <small>{{ post.date | date_to_string }}</small>
+                <small>{% assign m = post.date | date: "%-m" %}
+                {{ post.date | date: "%-d" }} de 
+                {% case m %}
+                  {% when '1' %}Enero
+                  {% when '2' %}Febrero
+                  {% when '3' %}Marzo
+                  {% when '4' %}Abril
+                  {% when '5' %}Mayo
+                  {% when '6' %}Junio
+                  {% when '7' %}Julio
+                  {% when '8' %}Agosto
+                  {% when '9' %}Septiembre
+                  {% when '10' %}Octubre
+                  {% when '11' %}Noviembre
+                  {% when '12' %}Diciembre
+                {% endcase %} de 
+                {{ post.date | date: "%Y" }}</small>
               </a>
             </h5>
           </li>
