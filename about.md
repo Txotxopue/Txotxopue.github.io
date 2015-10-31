@@ -1,24 +1,19 @@
 ---
 layout: page
-title: About me
+title: Sobre m&iacute;
 permalink: /about/
 banner_image: sample-banner-image-2.jpg
-banner_image_alt: About me
+banner_image_alt: Sobre m&iacute;
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Hola, soy David Vidal. Trabajo como analista programador de software bancario y desarrollo videojuegos en mis ratos libres. Me apasiona la computación gráfica y sus diferentes técnicas para representar objetos en tiempo real.
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Tengo experiencia usando Unity 5 y Unreal Engine 4, además de otros motores como Godot. Me concentro principalmente en la programación de los elementos de gameplay, IA, creación de materiales, postprocesado... y también me encanta crear texturas procedurales con Substance Designer.
 
-### Contact me
+### Contacta conmigo
 
-Say `Hello` at gayanvirajith@gmail.com or find
-me on
+Escribiendo a {{ site.email }} o encu&eacute;ntrame en
 
 ---
 
 {% include social.html %}
-
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Archivo de entradas
 permalink: /archive/
 banner_image: sample-banner-image-3.jpg
 ---
