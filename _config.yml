@@ -3,11 +3,10 @@ title: a pixel army
 tagline: haciendo videojuegos
 email: elchicoconinsomnio@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designer and web developer. 
-  I love being minimal and creative.
+  Hola, soy un aficionado al desarrollo de videojuegos y este es mi blog donde cuento mis experiencias.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://txotxopue.github.io" # the base hostname & protocol for your site
-logourl: /assets/images/logo.png # Site logo
+logourl: /assets/images/panda.png # Site logo
 author: "Tom Warlker"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
