@@ -4,11 +4,28 @@
     <title>a pixel army</title>
     <description>Hi, I’m a professional UI/UX designer and web developer.  I love being minimal and creative.
 </description>
-    <link>https://site-txotxopue.c9.io/</link>
-    <atom:link href="https://site-txotxopue.c9.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Oct 2015 14:22:20 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2015 14:22:20 +0000</lastBuildDate>
+    <link>http://txotxopue.github.io/</link>
+    <atom:link href="http://txotxopue.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 31 Oct 2015 16:01:31 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2015 16:01:31 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Nuevo blog!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/2015-10-31-SolusShot.png&quot; alt=&quot;Solus project screenshot&quot; /&gt;
+Después de que me borraran el blog de Hostinger (otra vez xD), me he decidido a probar Github pages con Jekyll. De momento no me ha resultado nada complicado montarlo, veremos si soy capaz de adaptar el tema a mi gusto.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
+        <link>http://txotxopue.github.io/jekyll/update/2015/10/31/nuevo-blog/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/jekyll/update/2015/10/31/nuevo-blog/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,8 +45,8 @@
 
 </description>
         <pubDate>Thu, 01 Jan 2015 00:00:55 +0000</pubDate>
-        <link>https://site-txotxopue.c9.io/jekyll/update/2015/01/01/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https://site-txotxopue.c9.io/jekyll/update/2015/01/01/welcome-to-jekyll/</guid>
+        <link>http://txotxopue.github.io/jekyll/update/2015/01/01/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/jekyll/update/2015/01/01/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
@@ -135,8 +152,8 @@
 &lt;p&gt;For more markdown features please look on &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;markdown styles&lt;/a&gt;. &lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Dec 2014 11:15:02 +0000</pubDate>
-        <link>https://site-txotxopue.c9.io/sample-post</link>
-        <guid isPermaLink="true">https://site-txotxopue.c9.io/sample-post</guid>
+        <link>http://txotxopue.github.io/sample-post</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/sample-post</guid>
         
         
         <category>sample</category>
@@ -208,8 +225,8 @@
 &lt;p&gt;Happy jekylling!&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Dec 2014 01:08:49 +0000</pubDate>
-        <link>https://site-txotxopue.c9.io/theme/guides/2014/12/21/gaya-jekyll-theme/</link>
-        <guid isPermaLink="true">https://site-txotxopue.c9.io/theme/guides/2014/12/21/gaya-jekyll-theme/</guid>
+        <link>http://txotxopue.github.io/theme/guides/2014/12/21/gaya-jekyll-theme/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/theme/guides/2014/12/21/gaya-jekyll-theme/</guid>
         
         
         <category>theme</category>
@@ -234,8 +251,8 @@
 
 </description>
         <pubDate>Sun, 21 Dec 2014 01:08:49 +0000</pubDate>
-        <link>https://site-txotxopue.c9.io/2014/12/21/Band-aid-30/</link>
-        <guid isPermaLink="true">https://site-txotxopue.c9.io/2014/12/21/Band-aid-30/</guid>
+        <link>http://txotxopue.github.io/2014/12/21/Band-aid-30/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/2014/12/21/Band-aid-30/</guid>
         
         
       </item>
@@ -276,8 +293,8 @@ node program from the command line:&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 14 Dec 2014 04:07:49 +0000</pubDate>
-        <link>https://site-txotxopue.c9.io/nodejs/guides/2014/12/14/what-is-nodejs/</link>
-        <guid isPermaLink="true">https://site-txotxopue.c9.io/nodejs/guides/2014/12/14/what-is-nodejs/</guid>
+        <link>http://txotxopue.github.io/nodejs/guides/2014/12/14/what-is-nodejs/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/nodejs/guides/2014/12/14/what-is-nodejs/</guid>
         
         
         <category>nodejs</category>
@@ -348,8 +365,8 @@ new port number every time you want to connect to your system via SSH. &lt;/p&gt
 
 </description>
         <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
-        <link>https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu</link>
-        <guid isPermaLink="true">https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu</guid>
+        <link>http://txotxopue.github.io/enable-ssh-secure-shell-in-ubuntu</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/enable-ssh-secure-shell-in-ubuntu</guid>
         
         
         <category>ubuntu</category>
@@ -457,8 +474,8 @@ all done!&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
-        <link>https://site-txotxopue.c9.io/update-magento-url-after-migrate-site-from-one-environment-to-another</link>
-        <guid isPermaLink="true">https://site-txotxopue.c9.io/update-magento-url-after-migrate-site-from-one-environment-to-another</guid>
+        <link>http://txotxopue.github.io/update-magento-url-after-migrate-site-from-one-environment-to-another</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/update-magento-url-after-migrate-site-from-one-environment-to-another</guid>
         
         
         <category>magento</category>
@@ -583,8 +600,8 @@ gedit /var/www/info.php
 &lt;p&gt;Hope this is useful to you. &lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Jun 2014 00:00:00 +0000</pubDate>
-        <link>https://site-txotxopue.c9.io/installing-apache2-php5-and-mysql-support-on-ubuntu-12-04</link>
-        <guid isPermaLink="true">https://site-txotxopue.c9.io/installing-apache2-php5-and-mysql-support-on-ubuntu-12-04</guid>
+        <link>http://txotxopue.github.io/installing-apache2-php5-and-mysql-support-on-ubuntu-12-04</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/installing-apache2-php5-and-mysql-support-on-ubuntu-12-04</guid>
         
         
         <category>ubuntu</category>
