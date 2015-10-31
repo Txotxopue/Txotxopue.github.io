@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://txotxopue.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/pixel-logo.png # Site logo
-author: "Tom Warlker"
-author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
+author: "David Vidal"
+author_thumbnail: "/assets/images/avatar-quentin.png" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
