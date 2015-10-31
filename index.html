@@ -32,8 +32,8 @@ layout: default
     {% endif %}
     <span class="post-date">
       <!-- Whitespace added for readability -->
-      {% assign m = page.date | date: "%-m" %}
-      {{ page.date | date: "%-d" }} de 
+      {% assign m = post.date | date: "%-m" %}
+      {{ post.date | date: "%-d" }} de 
       {% case m %}
         {% when '1' %}Enero
         {% when '2' %}Febrero
@@ -48,7 +48,7 @@ layout: default
         {% when '11' %}Noviembre
         {% when '12' %}Diciembre
       {% endcase %}
-      {{ page.date | date: "%Y" }}
+      {{ post.date | date: "%Y" }}
       {% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}  
     </span>
     </p>
