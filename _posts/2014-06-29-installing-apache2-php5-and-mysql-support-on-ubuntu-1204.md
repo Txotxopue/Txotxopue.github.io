@@ -2,8 +2,7 @@
 layout: post
 title: "Installing apache2, php5 and MySQL support on Ubuntu 12.04"
 category: 
-- ubuntu
-- guide
+- blog
 permalink: installing-apache2-php5-and-mysql-support-on-ubuntu-12-04
 meta_description: 'Installing apache2, php5 and MySQL support on Ubuntu 12.04'
 browser_title: 'Installing apache2, php5 and MySQL support on Ubuntu 12.04'

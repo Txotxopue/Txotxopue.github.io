@@ -1,0 +1,10 @@
+{% for category in site.data.categories %}
+  {% if category.slug == page.category %}
+    {% assign category_name =  category.name %}
+  {% endif %}
+{% endfor %}
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ category_name }}
+    Articles on the category <strong>‘{{ category_name }}’</strong></h1>
+  </header>

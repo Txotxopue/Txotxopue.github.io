@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% include category/title.html %}
+    <ul>
+        {% assign empty_category = true %}
+        {% for post in site.posts %}
+            {% if post.categories contains page.category %}
+                <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                {% assign empty_category = false %}
+            {% endif %}
+        {% endfor %}
+        {% if empty_category %}
+            <li class="empty-post-list">
+                It seems that there are no articles on that category,
+                please go back <a href="/">home</a> to see the full list of articles.
+            </li>
+        {% endif %}
+    </ul>
+</div>

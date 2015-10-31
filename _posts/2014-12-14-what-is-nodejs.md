@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Node.js"
 date:   2014-12-14 04:07:49
-categories: NodeJS Guides
+categories: blog
 banner_video: '<iframe width="560" height="315" src="//www.youtube.com/embed/pU9Q6oiQNd0" frameborder="0" allowfullscreen></iframe>'
 comments: true
 ---

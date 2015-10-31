@@ -27,8 +27,15 @@ layout: default
     <p class="post-meta">
     {% if (post.categories.size > 0 %}
       <span class="categories">
-      {{ post.categories | array_to_sentence_string }}
-      </span> |
+      {% for category in post.categories %}
+        
+        <a href="{{ "/categories/" | append: category | prepend: site.baseurl | prepend: site.url }}">
+        {{ category }}
+        </a>
+         | 
+      {% endfor %}
+      </span>
+      
     {% endif %}
     <span class="post-date">
       <!-- Whitespace added for readability -->

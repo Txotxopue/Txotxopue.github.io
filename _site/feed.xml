@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a pixel army</title>
-    <description>Hola, soy un aficionado al desarrollo de videojuegos y éste es mi blog donde cuento mis experiencias.
+    <description>Hola, soy un aficionado al desarrollo de videojuegos y &amp;eacute;ste es mi blog donde cuento mis experiencias.
 </description>
     <link>http://txotxopue.github.io/</link>
     <atom:link href="http://txotxopue.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Oct 2015 21:36:08 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2015 21:36:08 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2015 22:33:01 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2015 22:33:01 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -18,13 +18,11 @@
 
 </description>
         <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
-        <link>http://txotxopue.github.io/jekyll/update/2015/10/31/nuevo-blog/</link>
-        <guid isPermaLink="true">http://txotxopue.github.io/jekyll/update/2015/10/31/nuevo-blog/</guid>
+        <link>http://txotxopue.github.io/blog/2015/10/31/nuevo-blog/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/blog/2015/10/31/nuevo-blog/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>blog</category>
         
       </item>
     
@@ -46,13 +44,11 @@
 
 </description>
         <pubDate>Thu, 01 Jan 2015 00:00:55 +0000</pubDate>
-        <link>http://txotxopue.github.io/jekyll/update/2015/01/01/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://txotxopue.github.io/jekyll/update/2015/01/01/welcome-to-jekyll/</guid>
+        <link>http://txotxopue.github.io/jekyll-update/2015/01/01/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/jekyll-update/2015/01/01/welcome-to-jekyll/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>jekyll-update</category>
         
       </item>
     
@@ -157,9 +153,7 @@
         <guid isPermaLink="true">http://txotxopue.github.io/sample-post</guid>
         
         
-        <category>sample</category>
-        
-        <category>guides</category>
+        <category>blog</category>
         
       </item>
     
@@ -226,35 +220,11 @@
 &lt;p&gt;Happy jekylling!&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Dec 2014 01:08:49 +0000</pubDate>
-        <link>http://txotxopue.github.io/theme/guides/2014/12/21/gaya-jekyll-theme/</link>
-        <guid isPermaLink="true">http://txotxopue.github.io/theme/guides/2014/12/21/gaya-jekyll-theme/</guid>
+        <link>http://txotxopue.github.io/blog/2014/12/21/gaya-jekyll-theme/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/blog/2014/12/21/gaya-jekyll-theme/</guid>
         
         
-        <category>theme</category>
-        
-        <category>guides</category>
-        
-      </item>
-    
-      <item>
-        <title>Do they know it is Christmas by Band aid 30</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Band_Aid_30&quot;&gt;Band Aid 30’s&lt;/a&gt; updated “Do They Know It’s Christmas” (EMI/Universal) has become the U.K.’s fastest-selling single of the year to date, selling thousands of downloads to go straight to No. 1. &lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The song was recorded on 15 November 2014, with all contributions going towards battling the &lt;a href=&quot;http://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa&quot;&gt;Ebola virus epidemic in West Africa&lt;/a&gt;. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;about-band-aid-30&quot;&gt;About Band Aid 30&lt;/h2&gt;
-
-&lt;p&gt;Band Aid 30 is the 2014 incarnation of the charity supergroup Band Aid. The group was announced on 10 November 2014 by &lt;a href=&quot;http://en.wikipedia.org/wiki/Bob_Geldof&quot;&gt;Bob Geldof&lt;/a&gt; and &lt;a href=&quot;http://en.wikipedia.org/wiki/Midge_Ure&quot;&gt;Midge Ure&lt;/a&gt;, with Geldof stating that he took the step after the United Nations had contacted him, saying help was urgently needed to prevent the 2014 Ebola crisis in Western Africa spreading throughout the world.&lt;/p&gt;
-
-&lt;p&gt;Source &lt;a href=&quot;http://en.wikipedia.org/wiki/Band_Aid_30&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 21 Dec 2014 01:08:49 +0000</pubDate>
-        <link>http://txotxopue.github.io/2014/12/21/Band-aid-30/</link>
-        <guid isPermaLink="true">http://txotxopue.github.io/2014/12/21/Band-aid-30/</guid>
-        
+        <category>blog</category>
         
       </item>
     
@@ -294,13 +264,11 @@ node program from the command line:&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 14 Dec 2014 04:07:49 +0000</pubDate>
-        <link>http://txotxopue.github.io/nodejs/guides/2014/12/14/what-is-nodejs/</link>
-        <guid isPermaLink="true">http://txotxopue.github.io/nodejs/guides/2014/12/14/what-is-nodejs/</guid>
+        <link>http://txotxopue.github.io/blog/2014/12/14/what-is-nodejs/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/blog/2014/12/14/what-is-nodejs/</guid>
         
         
-        <category>nodejs</category>
-        
-        <category>guides</category>
+        <category>blog</category>
         
       </item>
     
@@ -370,9 +338,7 @@ new port number every time you want to connect to your system via SSH. &lt;/p&gt
         <guid isPermaLink="true">http://txotxopue.github.io/enable-ssh-secure-shell-in-ubuntu</guid>
         
         
-        <category>ubuntu</category>
-        
-        <category>guide</category>
+        <category>blog</category>
         
       </item>
     
@@ -479,9 +445,7 @@ all done!&lt;/p&gt;
         <guid isPermaLink="true">http://txotxopue.github.io/update-magento-url-after-migrate-site-from-one-environment-to-another</guid>
         
         
-        <category>magento</category>
-        
-        <category>guide</category>
+        <category>blog</category>
         
       </item>
     
@@ -605,9 +569,7 @@ gedit /var/www/info.php
         <guid isPermaLink="true">http://txotxopue.github.io/installing-apache2-php5-and-mysql-support-on-ubuntu-12-04</guid>
         
         
-        <category>ubuntu</category>
-        
-        <category>guide</category>
+        <category>blog</category>
         
       </item>
     

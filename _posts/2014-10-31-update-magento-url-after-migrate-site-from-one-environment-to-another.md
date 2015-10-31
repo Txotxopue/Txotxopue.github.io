@@ -2,8 +2,7 @@
 layout: post
 title: "Update magento URL after migrate your site from one environment to another"
 category: 
-- magento
-- guide
+- blog
 permalink: update-magento-url-after-migrate-site-from-one-environment-to-another
 meta_description: 'How to update/edit magento base URL after migrate your site from one environment to another'
 browser_title: Update magento URL after migrate site from one environment to another
