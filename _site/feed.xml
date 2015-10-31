@@ -2,19 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a pixel army</title>
-    <description>Hi, I’m a professional UI/UX designer and web developer.  I love being minimal and creative.
+    <description>Hola, soy un aficionado al desarrollo de videojuegos y este es mi blog donde cuento mis experiencias.
 </description>
     <link>http://txotxopue.github.io/</link>
     <atom:link href="http://txotxopue.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Oct 2015 16:32:20 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2015 16:32:20 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2015 16:40:01 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2015 16:40:01 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Nuevo blog!</title>
         <description>&lt;p&gt;Después de que me borraran el blog de Hostinger (otra vez xD), me he decidido a probar Github pages con Jekyll.&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;p&gt;De momento no me ha resultado nada complicado montarlo, veremos si soy capaz de adaptar el tema a mi gusto.&lt;/p&gt;
 
