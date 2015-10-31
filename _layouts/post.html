@@ -42,7 +42,7 @@ layout: default
         {% when '10' %}Octubre
         {% when '11' %}Noviembre
         {% when '12' %}Diciembre
-      {% endcase %}
+      {% endcase %} de 
       {{ page.date | date: "%Y" }}
       {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
     </span>
