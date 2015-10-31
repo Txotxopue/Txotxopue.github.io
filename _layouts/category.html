@@ -6,7 +6,7 @@ layout: default
         {% assign empty_category = true %}
         {% for post in site.posts %}
             {% if post.categories contains page.category %}
-                <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <h5><li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     <small>{% assign m = post.date | date: "%-m" %}
                     {{ post.date | date: "%-d" }} de 
                     {% case m %}
@@ -25,7 +25,7 @@ layout: default
                     {% endcase %} de 
                     {{ post.date | date: "%Y" }}
                     </small>
-                </li>
+                </li></h5>
                 {% assign empty_category = false %}
             {% endif %}
         {% endfor %}
