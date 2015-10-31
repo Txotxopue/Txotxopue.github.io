@@ -8,10 +8,9 @@
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>a pixel army</title>
-    <meta name="description" content="Hi, I’m a professional UI/UX designer and web developer.  I love being minimal and creative.
-">
-    <meta property="og:locale" content="en_US"><meta property="og:type" content="website"><meta property="og:site_name" content="a pixel army"><meta property="og:description" content="Hi, I’m a professional UI/UX designer and web developer.  I love being minimal and creative."><meta property="og:url" content="https://site-txotxopue.c9.io/page2/"><meta property="article:author" content="https://site-txotxopue.c9.io/about">
+    <title>Enable SSH (Secure Shell) in Ubuntu</title>
+    <meta name="description" content="See how to enable ssh in ubuntu step by step guide">
+    <meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Enable SSH (Secure Shell) in Ubuntu - a pixel army"><meta property="og:site_name" content="a pixel army"><meta property="og:description" content="See how to enable ssh in ubuntu step by step guide"><meta property="og:url" content="https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu"><meta property="article:published_time" content="2014-11-17T00:00:00+00:00"><meta property="article:author" content="https://site-txotxopue.c9.io/about">
   
     
 
@@ -20,7 +19,7 @@
     <link rel="alternate" type="application/rss+xml" href="https://site-txotxopue.c9.io/feed.xml">
     <link rel="shortcut icon" href="https://site-txotxopue.c9.io/favicon.ico">
     <link rel="prefetch" href="https://site-txotxopue.c9.io">
-    <link rel="canonical" href="https://site-txotxopue.c9.io/page2/">
+    <link rel="canonical" href="https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu">
     <link rel="stylesheet" 
     href="https://site-txotxopue.c9.io/assets/css/main.css">
 
@@ -50,19 +49,14 @@
       </div>
       
       <div class="container content">
-          <div class="posts">
+          <div class="post">
+
   
+
   
-  <article class="post">
 
-    
-
-    <h1 class="post-title">
-      <a href="https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu/">
-        Enable SSH (Secure Shell) in Ubuntu
-      </a>
-    </h1>
-
+  <header class="post-header">
+    <h1 class="post-title">Enable SSH (Secure Shell) in Ubuntu</h1>
     <p class="post-meta">
     
       <span class="categories">
@@ -73,103 +67,118 @@
     Nov 17, 2014  
     </span>
     </p>
+  </header>
 
+  <article class="post-content">
     <p>This is a simple guide to show you how to enable Secure Shell <strong>(SSH)</strong> service in 
 <a href="http://www.ubuntu.com">Ubuntu</a>. </p>
 
+<p>SSH is a secure communication protocol that lets you remotely access network 
+computers. Withing this secure data communication you can do lot of things like 
+remote command-line login, remote command execution etc.</p>
 
-    <a href="https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu/">
-      Continue reading »
-    </a>
+<p>You could easily enable this service via OpenSSH, which is a free version 
+of the SSH connectivity tools developed by the OpenBSD Project. </p>
+
+<p>To to do that, press <strong>Ctrl + Alt + T</strong> on your keyboard to open the terminal.
+When it opens, issue the following commands below to install <code>openssh-server</code>.</p>
+
+<div class="highlight"><pre><code class="language-sh" data-lang="sh">sudo apt-get update <span class="o">&amp;&amp;</span> apt-get install openssh-server</code></pre></div>
+
+<p>Once you installed, use your SSH client to connect to your computer 
+using the default port 22.</p>
+
+<p>Example attempt: </p>
+
+<div class="highlight"><pre><code class="language-sh" data-lang="sh">ssh gayan@192.168.0.102</code></pre></div>
+
+<h2 id="configure-ssh-server-settings">Configure ssh server settings</h2>
+
+<p>You can also configure ssh-server settings by editing the sshd_config 
+file in the /etc/ssh directory.</p>
+
+<blockquote>
+  <p>sshd_config is the configuration file for the OpenSSH server. ssh_config is the configuration file for the OpenSSH client. Make sure not to get them mixed up.</p>
+</blockquote>
+
+<p>If you are about to change the settings, make a backup of your <strong>sshd_config</strong> file 
+by copying it to your home directory, 
+or by making a read-only copy in /etc/ssh by doing:</p>
+
+<div class="highlight"><pre><code class="language-sh" data-lang="sh">sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.factory-defaults
+sudo chmod a-w /etc/ssh/sshd_config.factory-defaults</code></pre></div>
+
+<p>Once you’ve backed up your sshd_config file, you can make changes with any text 
+editor, for example; </p>
+
+<div class="highlight"><pre><code class="language-sh" data-lang="sh">sudo gedit /etc/ssh/sshd_config</code></pre></div>
+
+<p>For example if you wish to change the connection port, then change the port 
+# shown to whatever you want and save the file. But remember to use the 
+new port number every time you want to connect to your system via SSH. </p>
+
+<p>You can apply the changes by saving the file then doing:</p>
+
+<div class="highlight"><pre><code class="language-sh" data-lang="sh">sudo restart ssh</code></pre></div>
+
+<p>More references:</p>
+
+<ul>
+  <li><a href="https://help.ubuntu.com/community/SSH/OpenSSH/Configuring">SSH/OpenSSH/Configuring</a></li>
+  <li><a href="http://askubuntu.com/questions/51925/how-do-i-configure-a-new-ubuntu-installation-to-accept-ssh-connections">Askubuntu - How to accept ssh connections?</a> </li>
+</ul>
+
+    
   </article>
+
   
+    <div class="related-posts">
+      <h4>Related Posts</h4>
+      <ul>
+        
+          <li>
+            <h5>
+              <a href="https://site-txotxopue.c9.io/jekyll/update/2015/01/01/welcome-to-jekyll/">
+                Welcome to Jekyll!
+                <small>01 Jan 2015</small>
+              </a>
+            </h5>
+          </li>
+        
+          <li>
+            <h5>
+              <a href="https://site-txotxopue.c9.io/sample-post">
+                Sample post from Gaya theme
+                <small>27 Dec 2014</small>
+              </a>
+            </h5>
+          </li>
+        
+          <li>
+            <h5>
+              <a href="https://site-txotxopue.c9.io/theme/guides/2014/12/21/gaya-jekyll-theme/">
+                Gaya Jekyll Theme
+                <small>21 Dec 2014</small>
+              </a>
+            </h5>
+          </li>
+        
+      </ul>
+    </div>
   
-  <article class="post">
 
+  <div class="author-info">
     
-
-    <h1 class="post-title">
-      <a href="https://site-txotxopue.c9.io/update-magento-url-after-migrate-site-from-one-environment-to-another/">
-        Update magento URL after migrate your site from one environment to another
-      </a>
-    </h1>
-
-    <p class="post-meta">
+      <div class="author">   <a href="https://site-txotxopue.c9.io/about">    <img       src="https://site-txotxopue.c9.io/assets/images/avatar.jpg"      alt="a pixel army" width="60" height="60" />  </a>    <h5>Author</h4>  <h6>    <a href="https://site-txotxopue.c9.io/about">      Tom Warlker    </a>  </h5>  <p>    Find me on            <a title="txotxopue on Twitter"             href="https://twitter.com/txotxopue"             class="twitter" target="_blank">Twitter</a>               </p></div>
     
-      <span class="categories">
-      magento and guide
-      </span> |
-    
-    <span class="post-date">
-    Oct 31, 2014  
-    </span>
-    </p>
-
-    <p>This is a little stepping guide to update <code>baseurl</code> after migrate your 
-Magento website/web-store from one environment to another.</p>
-
-
-    <a href="https://site-txotxopue.c9.io/update-magento-url-after-migrate-site-from-one-environment-to-another/">
-      Continue reading »
-    </a>
-  </article>
   
+    
+      <div class="share-buttons">  <h5>Share this post on</h5>  <ul class="social-media">    <li>        <a title="txotxopue on Twitter"           href="https://twitter.com/intent/tweet?original_referer=https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu&amp;text=Enable SSH (Secure Shell) in Ubuntu&amp;url=https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu" class="twitter wc-img-replace" target="_blank">          Twitter        </a>    </li>       <li>        <a title=" on Google Plus"             href="https://plus.google.com/share?url=https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu"             class="google wc-img-replace" target="_blank">Google</a>    </li>    <li>        <a title=" on Facebook"             href="https://www.facebook.com/sharer/sharer.php?u=https://site-txotxopue.c9.io/enable-ssh-secure-shell-in-ubuntu&amp;t=Enable SSH (Secure Shell) in Ubuntu"             class="facebook wc-img-replace" target="_blank">Facebook</a>    </li>  </ul></div>
+      
+  </div>
   
-  <article class="post">
-
-    
-
-    <h1 class="post-title">
-      <a href="https://site-txotxopue.c9.io/installing-apache2-php5-and-mysql-support-on-ubuntu-12-04/">
-        Installing apache2, php5 and MySQL support on Ubuntu 12.04
-      </a>
-    </h1>
-
-    <p class="post-meta">
-    
-      <span class="categories">
-      ubuntu and guide
-      </span> |
-    
-    <span class="post-date">
-    Jun 29, 2014  
-    </span>
-    </p>
-
-    <p>Here are some quick step by step guide to follow, when you about to setup php5, MySQL web environment on ubuntu 12.04
-(Precise Pangolin). This guide would help you to install Apache2 web server on an Ubuntu 12.04 with php5
-support (mod_php) and MySQL.</p>
-
-
-    <a href="https://site-txotxopue.c9.io/installing-apache2-php5-and-mysql-support-on-ubuntu-12-04/">
-      Continue reading »
-    </a>
-  </article>
   
 </div>
-
-
-<div class="pagination">
-  
-  
-    <span class="pagination-item older btn-disabled">Older</span>
-  
-  
-  
-    <a class="pagination-item newer btn " href="/">Newer</a>
-    
-  
-</div>
-
-
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "url": "https://site-txotxopue.c9.io/"
-    }
-}
-</script>
 
       </div>
       <a href="#0" class="wc-top">Top</a>
