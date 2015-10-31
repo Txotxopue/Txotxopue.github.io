@@ -22,7 +22,13 @@ layout: default
     <p class="post-meta">
     {% if (page.categories.size > 0 %}
       <span class="categories">
-      {{ page.categories | array_to_sentence_string }}
+      {% for category in page.categories %}
+        
+        <a href="{{ "/categories/" | append: category | prepend: site.baseurl | prepend: site.url }}">
+        {{ category }}
+        </a>
+         | 
+      {% endfor %}
       </span> |
     {% endif %}
     <span class="post-date">
