@@ -2,7 +2,7 @@
 layout: post
 title:  "Dominio enlazado"
 categories: blog
-banner_image: 2015-11-02-dominio.png
+banner_image: 2015-11-02-Dominio.png
 comments: false
 ---
 
