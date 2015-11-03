@@ -58,3 +58,8 @@ exclude:
 sass:
   sass_dir: assets/css/_sass
   style: :compressed
+  
+# Collections list. Just Portfolio yet
+collections:
+  portfolio:
+    output: true
