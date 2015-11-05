@@ -62,4 +62,5 @@ sass:
 # Collections list. Just Portfolio yet
 collections:
   portfolio:
-    output: true
+    output: yes
+    permalink: /:collection/:path/index.html
