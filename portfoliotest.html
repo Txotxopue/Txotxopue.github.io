@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for item in site.portfolio %}
+  {% assign item_url = item.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url | %}
+  <article class="post">
+
+    {% if item.banner_image %}
+    <div class="banner-image">
+      <a href="{{ item_url }}"
+        title="{{ item.title }}">
+      <img 
+          src="{{ "/assets/images/" | append: item.banner_image | prepend: site.baseurl | prepend: site.url }}" 
+          alt="{% if item.banner_image_alt %}{{ item.banner_image_alt }}{% else %}{{ item.title }} {% endif %}">
+      </a>
+    </div>
+    {% endif %}
+
+    <h1 class="post-title">
+      <a href="{{ item.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url |  }}">
+        {{ item.title }}
+      </a>
+    </h1>
+
+    {{ item.excerpt }}
+    <a href="{{ item.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url |  }}">
+      Leer m&aacute;s »
+    </a>
+  </article>
+  {% endfor %}
+</div>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "{{ '' | prepend: site.baseurl | prepend: site.url | append: '/' }}"
+    }
+}
+</script>
