@@ -63,4 +63,4 @@ sass:
 collections:
   portfolio:
     output: yes
-    permalink: /:collection/:path/index.html
+    permalink: /:collection/:path/
