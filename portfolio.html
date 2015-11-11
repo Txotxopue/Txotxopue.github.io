@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for item in site.portfolio %}
+  {% for item in site.portfolio reversed %}
   {% assign item_url = item.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url | %}
   <article class="post">
 
