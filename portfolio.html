@@ -23,11 +23,6 @@ layout: default
         {{ item.title }}
       </a>
     </h1>
-
-    {{ item.excerpt }}
-    <a href="{{ item.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url |  }}">
-      Leer m&aacute;s »
-    </a>
   </article>
   {% endfor %}
 </div>
