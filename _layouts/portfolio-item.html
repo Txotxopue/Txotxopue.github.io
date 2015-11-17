@@ -58,19 +58,13 @@ layout: default
         {% if nexturl %}<a href="{{nexturl}}" class="next">{{nexttitle}} <i class="fa fa-angle-right"></i></a>{% endif %}
       </div>
     {% endif %}
-    <div class="pagination">
-  
-      {% if prevurl %}
-        <a class="pagination-item older btn" href="{{prevurl}}">< {{prevtitle}}</a>    
-      {% else %}
-        <span class="pagination-item older btn-disabled"></span>
-      {% endif %}
-  
-      {% if nexturl %}
-        <a class="pagination-item newer btn " href="{{nexturl}}">> {{nexttitle}}</a>
-      {% else %}
-        <span class="pagination-item newer btn-disabled"></span>
-      {% endif %}  
-  
-    </div>
+</div>
+
+<div class="pagination">
+  {% if nexturl %}
+    <a class="pagination-item newer btn " href="{{nexturl}}">Anterior: {{nexttitle}}</a>
+  {% endif %}
+  {% if prevurl %}
+    <a class="pagination-item older btn" href="{{prevurl}}">Siguiente: {{prevtitle}}</a>    
+  {% endif %}
 </div>
