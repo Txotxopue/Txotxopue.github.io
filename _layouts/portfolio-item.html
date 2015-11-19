@@ -56,9 +56,9 @@ layout: default
 {% endfor %}
 <div class="pagination">
   {% if nexturl %}
-    <a class="pagination-item newer btn " href="{{nexturl}}">Anterior: {{nexttitle}}</a>
+    <a class="pagination-item newer btn " href="{{nexturl}}">&laquo; {{nexttitle}}</a>
   {% endif %}
   {% if prevurl %}
-    <a class="pagination-item older btn" href="{{prevurl}}">Siguiente: {{prevtitle}}</a>    
+    <a class="pagination-item older btn" href="{{prevurl}}">{{prevtitle}} &raquo;</a>    
   {% endif %}
 </div>
