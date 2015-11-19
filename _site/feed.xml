@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a pixel army</title>
-    <description>Hola, soy un aficionado al desarrollo de videojuegos y &amp;eacute;ste es mi blog donde cuento mis experiencias.
+    <description>¡Bienvenido a apixelarmy!
+soy un aficionado al desarrollo de videojuegos y &amp;eacute;ste es mi blog donde cuento mis experiencias.
 </description>
     <link>http://txotxopue.github.io/</link>
     <atom:link href="http://txotxopue.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Nov 2015 14:40:15 +0000</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2015 14:40:15 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2015 17:37:01 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2015 17:37:01 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
