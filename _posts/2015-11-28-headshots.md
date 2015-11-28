@@ -2,8 +2,7 @@
 layout: post
 title:  "Primeros headshots"
 categories: blog
-banner_video: https://youtu.be/68Ffq6wf7qM
-banner_image: 2015-10-31-SolusShot.png
+banner_video: '<iframe width="560" height="315" src="//www.youtube.com/embed/68Ffq6wf7qM" frameborder="0" allowfullscreen></iframe>'
 comments: false
 ---
 
