@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rocket Launcher"
-categories: Shooter Tests
+categories: 'Shooter Tests'
 banner_video: '<iframe width="560" height="315" src="//www.youtube.com/embed/wmWHs7gDAWM" frameborder="0" allowfullscreen></iframe>'
 comments: false
 ---
