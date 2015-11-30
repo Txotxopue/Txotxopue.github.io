@@ -35,7 +35,11 @@ layout: default
       {% for category in post.categories %}
         
         <a href="{{ "/categories/" | append: category | prepend: site.baseurl | prepend: site.url }}">
-        {{ category }}
+        {% for cat in site.data.categories %}
+          {% if category == cat.slug %}
+            {{ cat.name }}
+          {% endif %}
+        {% endfor %}
         </a>
          | 
       {% endfor %}
