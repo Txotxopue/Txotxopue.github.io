@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Primeros headshots"
-categories: blog
+categories: shooter-tests
 banner_video: '<iframe width="560" height="315" src="//www.youtube.com/embed/68Ffq6wf7qM" frameborder="0" allowfullscreen></iframe>'
 comments: false
 ---
