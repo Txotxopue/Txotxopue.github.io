@@ -5,9 +5,25 @@
     <description>¡Bienvenido a apixelarmy!</description>
     <link>http://txotxopue.github.io/</link>
     <atom:link href="http://txotxopue.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Nov 2015 16:08:38 +0000</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2015 16:08:38 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Nov 2015 18:20:29 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Nov 2015 18:20:29 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Rocket Launcher</title>
+        <description>&lt;p&gt;Primera versión del lanzacohetes.&lt;/p&gt;
+
+&lt;p&gt;El sonido no me convence demasiado porque es demasiado largo, pero la iluminación de la propulsión del cohete es brutal. ¡Además sirve como linterna en los pasillos! xD&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://txotxopue.github.io/shooter-tests/2015/11/30/rocket-launcher/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/shooter-tests/2015/11/30/rocket-launcher/</guid>
+        
+        
+        <category>shooter-tests</category>
+        
+      </item>
     
       <item>
         <title>Primeros headshots</title>
@@ -15,11 +31,11 @@
 
 </description>
         <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
-        <link>http://txotxopue.github.io/blog/2015/11/28/headshots/</link>
-        <guid isPermaLink="true">http://txotxopue.github.io/blog/2015/11/28/headshots/</guid>
+        <link>http://txotxopue.github.io/shooter-tests/2015/11/28/headshots/</link>
+        <guid isPermaLink="true">http://txotxopue.github.io/shooter-tests/2015/11/28/headshots/</guid>
         
         
-        <category>blog</category>
+        <category>shooter-tests</category>
         
       </item>
     
