@@ -5,6 +5,7 @@ layout: default
 <div class="posts">
   <h1> En construcción... </h1>
   {% for item in site.portfolio reversed %}
+  {% if item.show %}
   {% assign item_url = item.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url | %}
   <article class="post">
 
@@ -25,6 +26,7 @@ layout: default
       </a>
     </h1>
   </article>
+  {% endif %}
   {% endfor %}
 </div>
 
