@@ -6,3 +6,16 @@ comments: false
 ---
 
 blabla.
+
+---
+
+### Créditos
+Todo hecho por mí.
+
+---
+
+### Enlaces
+
+---
+
+### Capturas y vídeos

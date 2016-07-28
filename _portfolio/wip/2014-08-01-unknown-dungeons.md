@@ -6,3 +6,15 @@ comments: false
 ---
 
 My first gamejam.
+
+---
+
+### Créditos
+
+---
+
+### Enlaces
+
+---
+
+### Capturas y vídeos
