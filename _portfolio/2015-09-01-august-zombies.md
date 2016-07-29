@@ -15,7 +15,7 @@ Idea, 3D y algunas texturas: Lois Beitia.
 
 Más texturas: Igor Quintela.
 
-Tema musical para el menú: 
+Tema musical para el menú: Sergio Reina.
 
 Más texturas y programación: David Vidal.
 ---
