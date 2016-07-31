@@ -1,5 +1,5 @@
-#- title: "Portfolio"
-#  href: "/portfolio"
+- title: "Portfolio"
+  href: "/portfolio"
 - title: "Sobre m&iacute;" # Title/Caption of the menu item
   href: "/about" # the page where it pointed 
 - title: "Archivo"
