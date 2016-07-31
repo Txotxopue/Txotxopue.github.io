@@ -6,9 +6,9 @@ banner_image: sample-banner-image-2.jpg
 banner_image_alt: Sobre m&iacute;
 ---
 
-Hola, soy David Vidal. Me apasiona la computación gráfica y sus diferentes técnicas para representar objetos en tiempo real.
+Hola, soy David Vidal. Trabajo como analista de software bancario, pero en mis ratos libres me apasiona el desarrollo de videojuegos en sus múltiples facetas.
 
-Tengo experiencia usando diversos motores de videojuegos como Unity 5, Unreal Engine 4 o Godot. Me concentro principalmente en la programación de los elementos de gameplay, IA, creación de materiales, postprocesado... y también me encanta crear texturas procedurales con Substance Designer.
+Tengo experiencia usando diversos motores de videojuegos como Unity 5, Unreal Engine 4 o Godot. Concentro mi tiempo principalmente en practicar la programación de mecánicas de gameplay, pero también tengo experiencia y practico de vez en cuando algo sobre IA, texturizado con herramientas como la suite de Substance, shaders, postprocesado, modelado 3D, pixel art...
 
 ### Contacta conmigo
 
