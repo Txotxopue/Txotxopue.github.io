@@ -1,7 +1,7 @@
 ---
 layout: portfolio-item
 title:  "Supermarket Fighters"
-banner_image: 2015-10-31-SolusShot.png
+banner_image: supermarket/super-battle-compressor.png
 comments: false
 show: true
 ---
@@ -13,11 +13,23 @@ Pequeño juego realizado para la competición de la Euskal Encounter de 2015. Se
 ---
 
 ### Créditos
+* Idea original y personajes: Nagore Reina.
+* Modelados y texturas: Lois Beitia.
+* Más texturas: Igor Quintela.
+* Música: Sergio Reina.
+* Logo: Bego Viñuela.
+* Programación e integración en Unity: David Vidal.
 
 ---
 
 ### Enlaces
+* [Código en Github](https://github.com/txotxopue/supermarket).
+* [Prueba Supermarket Fighters (WebGL)](/assets/builds/supermarket/index.html).
 
 ---
 
 ### Capturas y vídeos
+![Logo](/assets/images/supermarket/super-logo-compressor.png "Logo")
+![Pelea](/assets/images/supermarket/super-battle-compressor.png "Pelea")
+![Coches cel-shading](/assets/images/supermarket/super-cars-compressor.png "Coches cel-shading")
+![Interior](/assets/images/supermarket/super-interior-compressor.png "Interior")
