@@ -3,6 +3,7 @@ layout: portfolio-item
 title:  "Supermarket Fighters"
 banner_image: 2015-10-31-SolusShot.png
 comments: false
+show: true
 ---
 
 Una anciana va al supermercado a por una caja de galletas para su nieta, pero sólo queda una caja y debe pelear por ella.
