@@ -17,7 +17,7 @@ Idea, 3D y algunas texturas: Lois Beitia.
 
 Más texturas: Igor Quintela.
 
-Tema musical para el menú: Sergio Reina.
+Música: [Crow Will Tell de Ancient Emblem](https://youtu.be/kEYr0I0iwsE).
 
 Más texturas y programación: David Vidal.
 
