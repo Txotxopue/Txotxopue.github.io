@@ -16,7 +16,7 @@ Proyecto aparcado por falta de tiempo y conocimientos para algo de esta envergad
 * Idea, 3D y algunas texturas: Lois Beitia.
 * Más texturas: Igor Quintela.
 * Música: [Crow Will Tell de Ancient Emblem](https://youtu.be/kEYr0I0iwsE).
-* Más texturas y programación: David Vidal.
+* Programación y más texturas: David Vidal.
 
 ---
 
