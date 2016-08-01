@@ -8,7 +8,7 @@ show: true
 
 Juego hecho para la Game Boy Jam de 2014.
 
-Debes abrirte paso por una serie de habitaciones aleatorias llenas de enemigos, equipado con 3 armas distintas y un escudo, hasta encontrar y derrotar al dragón para poder salir de la mazmorra volver a casa.
+Debes abrirte paso por una serie de habitaciones aleatorias llenas de enemigos, equipado con 3 armas distintas y un escudo, hasta encontrar y derrotar al dragón para poder salir de la mazmorra y volver a casa.
 
 ---
 
@@ -23,7 +23,7 @@ Debes abrirte paso por una serie de habitaciones aleatorias llenas de enemigos, 
 
 ### Enlaces
 * [Código en GitHub](https://github.com/andoniserra/UnknownDungeons/tree/master-nueva)
-* [Pruébalo en la web de la GameJam3](http://gamejolt.com/games/unknown-dungeons/31831)
+* [Pruébalo en GameJolt (Unity Web Plugin)](http://gamejolt.com/games/unknown-dungeons/31831)
 
 ---
 
