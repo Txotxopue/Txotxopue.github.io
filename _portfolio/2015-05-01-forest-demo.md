@@ -9,6 +9,7 @@ show: true
 Escena de bosque que contruí en UE4 para hacer pruebas de iluminación dinámica. 
 
 Lo más destacable es el sistema de satelites:
+
 * Esfera espacial y de cielo independientes.
 * Sistema de satélites que se ubican entre ambas esferas y reflejan la luz solar.
 * Los satélites orbitan el escenario y su traslación, rotación, radio de órbita y centro de órbita es configurable.
