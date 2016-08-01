@@ -1,7 +1,7 @@
 ---
 layout: portfolio-item
 title:  "August Zombies"
-banner_image: zombies/august-zombies-compressor.png
+banner_image: zombies/august-zombies-menu-compressor.png
 comments: false
 show: true
 ---
