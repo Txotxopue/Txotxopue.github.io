@@ -28,4 +28,4 @@ El mayor problema de la escena son las colisiones entre los minotauros, que a ve
 ### Capturas y vídeos
 <iframe width="560" height="315" src="//www.youtube.com/embed/8n5fGPTZpCg" frameborder="0" allowfullscreen></iframe>
 ![Behaviour Tree](/assets/images/lofidemons/lofidemons-bt-compressor.png "Behaviour Tree")
-![Minotauro en acción](/assets/images/lofidemons/lofidemons-bt-compressor.png "Minotauro en acción")
+![Minotauro en acción](/assets/images/lofidemons/lofidemons-minotaur-compressor.png "Minotauro en acción")
