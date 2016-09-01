@@ -11,5 +11,5 @@ Juego hecho para la Ludum Dare 36.
 ---
 
 ### Enlaces
-* [Pruébalo (WebGL)](/assets/builds/ld36/index.html)
+* [Pruébalo (WebGL)](http://txotxopue.itch.io/rekt-of-towers)
 
