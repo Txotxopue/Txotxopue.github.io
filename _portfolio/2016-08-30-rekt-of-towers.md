@@ -1,7 +1,7 @@
 ---
 layout: portfolio-item
 title:  "Rekt of Towers"
-banner_image: rot/rot01.png
+banner_image: rot/Screen1.PNG
 comments: false
 show: true
 ---
