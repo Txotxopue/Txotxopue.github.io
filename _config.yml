@@ -9,8 +9,8 @@ url: "http://txotxopue.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/pixel-logo.png # Site logo
 author: "David Vidal"
 author_thumbnail: "/assets/images/avatar-quentin.png" # Author avatar
-# Theme customization - please change from the defaults!
-theme:
+# theme customization - please change from the defaults!
+theme_settings:
   # Color for sidebar bar, links, etc
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
