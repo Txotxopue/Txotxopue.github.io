@@ -2,7 +2,7 @@
 layout: post
 title:  "GameBoss Jam"
 categories: jams
-banner_image: rekt/Title.png
+banner_image: rekt/gameboss.jpg
 comments: true
 ---
 
@@ -12,11 +12,12 @@ Dejo el enlace a nuestro juego en la [web de Ludum Dare](http://ludumdare.com/co
 <iframe frameborder="0" src="https://itch.io/embed/82585" width="552" height="167"></iframe>
 
 Lo pasamos muy bien y conocimos a un montón de gente súper profesional que hizo unos juegos increíbles. Estos son algunos de sus juegos:
-* [Roll of Totems](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=110901)
-* [Rocket of Time](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=11046)
-* [Revenge of Tutankhamun](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=90767)
-* [Rush of Tartarus](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=62521)
-* [Rampage of Technology](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=113306)
-* [Setback](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=113504)
-* [The Cave of Wonders](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=111457)
-* [105.2](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=17978)
+
+* [Roll of Totems](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=110901).
+* [Rocket of Time](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=11046).
+* [Revenge of Tutankhamun](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=90767).
+* [Rush of Tartarus](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=62521).
+* [Rampage of Technology](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=113306).
+* [Setback](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=113504).
+* [The Cave of Wonders](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=111457).
+* [105.2](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=17978).
