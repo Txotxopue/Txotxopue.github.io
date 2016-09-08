@@ -1,7 +1,7 @@
 ---
 layout: portfolio-item
 title:  "Rekt of Towers"
-banner_image: rekt/gameboss.jpg
+banner_image: rekt/rekt-of-towers.jpg
 comments: false
 show: true
 ---
@@ -15,8 +15,9 @@ Actualmente nos encontramos retocando un poco el juego ya que nos ha parecido mu
 ---
 
 ### Créditos
-* Arte: Lois Beitia y Henry.
+* Arte: Lois Beitia y Henry López.
 * Programación: Iñigo Vique y yo.
+* Música: The Builder de Kevin MacLeod.
 
 ---
 
@@ -29,5 +30,6 @@ Actualmente nos encontramos retocando un poco el juego ya que nos ha parecido mu
 ---
 
 ### Capturas y vídeos
-<iframe width="560" height="315" src="//www.youtube.com/embed/nGWJQCvmHOE" frameborder="0" allowfullscreen></iframe>
-![Menú principal](/assets/images/rama/rama-menu-compressor.png "Menú principal")
+![Menú principal](/assets/images/rekt/Title.png "Menú principal")
+![Preparándose para disparar](/assets/images/rekt/rekt-of-towers.jpg "Preparándose para disparar")
+![Torre destruída](/assets/images/rekt/rekt-of-towers.jpg "Torre destruída")
