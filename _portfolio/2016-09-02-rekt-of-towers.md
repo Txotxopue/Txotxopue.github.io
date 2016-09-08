@@ -32,4 +32,4 @@ Actualmente nos encontramos retocando un poco el juego ya que nos ha parecido mu
 ### Capturas y vídeos
 ![Menú principal](/assets/images/rekt/Title.png "Menú principal")
 ![Preparándose para disparar](/assets/images/rekt/rekt-of-towers.jpg "Preparándose para disparar")
-![Torre destruída](/assets/images/rekt/rekt-of-towers.jpg "Torre destruída")
+![Torre destruída](/assets/images/rekt/rekt-of-towers-destroyed.jpg "Torre destruída")
